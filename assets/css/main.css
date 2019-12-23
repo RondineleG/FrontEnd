@@ -13,6 +13,11 @@ h1, p , h2{
     margin: 0;
     padding: 0;
 }
+hr{
+    margin: 0;
+    padding: 0;
+    color: #005599;
+}
 
 li{
      color: #e2e5ec;
