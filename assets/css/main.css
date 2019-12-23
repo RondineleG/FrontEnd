@@ -40,3 +40,10 @@ nav {
     background: url(../img/back.png) center center /100% 100% scroll;
     background-size: cover;
 }
+
+
+.social {
+    height: calc(15vh - 10px);
+    background: url(../img/social-logo.png) center center /100% 100% scroll;
+    background-size: cover;
+}
