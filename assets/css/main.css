@@ -14,14 +14,20 @@ h1, p , h2{
     padding: 0;
 }
 
+li{
+     color: #e2e5ec;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
-    color: white;
+    color: #476fdd;
 }
 
 nav {
-    width: 100vw;
-    height: 30px;
-    background-color: #9b518e;
+    
+    background-color: #702663;
 }
 
 .banner {
