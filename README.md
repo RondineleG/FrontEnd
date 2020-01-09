@@ -1,2 +1,1 @@
-# FrontEnd
-Repositório do FrontEnd da aplicação.
+# Developing FrontEnd
