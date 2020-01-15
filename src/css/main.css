@@ -3,47 +3,40 @@ Seletores
 adiciona o nome das
 tags e separa com virgula
 */
-h1, p {
-    color: #005599;
-    text-align: center
+
+h1 {
+    color: #e2e5ec;
+    text-align: center;
+    text-align: center;
+    background-color: #702663;
+    font-family: "Open Sans ", sans-serif;
 }
 
+p {
+    color: #005599;
+    text-align: center;
+    font-family: "Open Sans ", sans-serif;
+}
 
 * {
     margin: 0;
     padding: 0;
 }
-hr{
+
+h2 {
     margin: 0;
     padding: 0;
-    color: #005599;
+    font-size: 20px;
+    color: #686868;
 }
 
-li{
-     color: #e2e5ec;
+li {
+    color: #e2e5ec;
     text-align: center;
     margin: 0;
     padding: 0;
 }
 
-h1 {
-    color: #476fdd;
-}
-
 nav {
-    
     background-color: #702663;
-}
-
-.banner {
-    height: calc(20vh - 20px);
-    background: url(../img/back.png) center center /100% 100% scroll;
-    background-size: cover;
-}
-
-
-.social {
-    height: calc(15vh - 10px);
-    background: url(../img/social-logo.png) center center /100% 100% scroll;
-    background-size: cover;
 }
